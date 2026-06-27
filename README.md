@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Hash Table
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
