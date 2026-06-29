@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0013-roman-to-integer) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
