@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0014-longest-common-prefix) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0014-longest-common-prefix) |
 | [1288-remove-covered-intervals](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/1331-rank-transform-of-an-array) |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/2685-count-the-number-of-complete-components) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/5amar1h/leetcode-solution-in-python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
